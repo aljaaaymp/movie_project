@@ -7,7 +7,7 @@ const SearchedMovie = () => {
   return (
     <div className="searchContainer">
       <div>
-        <a href="/movie-project">
+        <a href="/movie_project">
           <span className="button"> Back </span>
         </a>
       </div>

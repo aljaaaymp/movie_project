@@ -8,7 +8,7 @@ export default function App() {
     <>
       <BrowserRouter>
         <Routes>
-          <Route path="/movie-project" element={<Main />} />
+          <Route path="/movie_project" element={<Main />} />
           <Route path="/movie" element={<SearchedMovie />} />
         </Routes>
       </BrowserRouter>
